@@ -1,3 +1,3 @@
 # TestarGitHub
 
-Tjenare alla!
+Tjena mors!
